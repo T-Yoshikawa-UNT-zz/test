@@ -2,9 +2,6 @@ un-T
 
 早く帰りたい
 
-<<<<<<< .merge_file_9WVgLz
 ブランチの修正
-=======
 
 miyazaki_dev2 add
->>>>>>> .merge_file_8dJhhT
